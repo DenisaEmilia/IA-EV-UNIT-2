@@ -52,11 +52,15 @@ ol {list-style-type: lower-alpha;}
 	background-color: #ffff0060;/*Yellow-transparency 60%*/
 	
 	margin: auto;
-  width: 70%;
+  width: 90%;
   border: 3px solid green;
   padding: 10px;
 }
-
+.structura img{
+	opacity: 90%;
+border: 2px solid red;
+  border-radius: 25px;
+}
 .button {
   
   background-color: #ffff0070; /*Yellow-transparency 70%*/
