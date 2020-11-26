@@ -1,5 +1,5 @@
 function Slide(){
-	
+	document.getElementById("gallery").style.display="none"; 
 var slideIndex = 0;
 showSlides();
 
